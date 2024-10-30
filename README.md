@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**pandas0531/pandas0531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I am pandas!   
+   Please call me pandas! (NOT PANDA/푸바오^^)
+   
+## I am in:
+* (2024) Korea Digitam Media High School (KDMHS) 23. Web Programming
+* (2024) STEALTH (Hacking Club) - Pwnable
+* (2024) Harpoon (Entrepreneurship Club) - Design, FE
 
-Here are some ideas to get you started:
+## I took part in (contest):
+* (2024) 충청북도 생성형 AI 경진대회
+* (2024) KOI 고등부
+* (2024) Codegate Junior Prequel CTF
+* (2024) Codegate AI with Security (AI 아이디어랩)
+* (2024) Cyber Conflict Exercise CTF (CCE)
+* (2024) NYPC Round 1, 2
+* (2024) HSPACE Partners League div G CTF (with. STEALTH)
+* (2024) Eleccon CTF
+* (2024) Whitehat Contest Junior Prequel CTF
+* (2024) JBU CTF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandas0531&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pandas0531)](https://solved.ac/pandas0531)

@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 👋 Hi! I am pandas!   
-   Please call me pandas! (NOT PANDA/푸바오^^)
-   
+
 ## I am in:
 * (2024) Korea Digitam Media High School (KDMHS) 23. Web Programming
 * (2024) STEALTH (Hacking Club) - Pwnable

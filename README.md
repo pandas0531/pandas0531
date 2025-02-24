@@ -10,9 +10,7 @@
 * (2025) STEALTH - Pwnable
 
 ## More about STUDY 
-More about Me : https://resonant-beret-a43.notion.site/README-md-13b9ac5c62cd80308369d1460d810d66
-
-~~(I'm too lazy to make my own-website)~~
+More about Me : https://pwnedas.xyz
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandas0531&layout=compact)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pandas0531)](https://solved.ac/pandas0531)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pandas0531)](https://solved.ac/pandas0531/)

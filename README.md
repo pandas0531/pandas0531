@@ -10,7 +10,7 @@
 * (2025) STEALTH - Pwnable
 
 ## More about STUDY 
-More about Me : https://pwnedas.xyz
+More about Me : https://www.pwnedas.xyz/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandas0531&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pandas0531)](https://solved.ac/pandas0531/)
